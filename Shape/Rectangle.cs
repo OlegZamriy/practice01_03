@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Rectangle : Shape
+public class Rectangle : Shape
 {
     public double Width { get; }
     public double Height { get; }
